@@ -1,25 +1,21 @@
 {
-  "title": "Formation Docker",
+  "title": "Formation Docker, créer des images",
   "description": "Formation Docker pour débutants",
   "difficulty": "Beginner",
   "time": "15",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Build Ping",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Simple site web",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Build site web",
         "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
       }
     ],
     "intro": {

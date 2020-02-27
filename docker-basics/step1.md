@@ -1,6 +1,6 @@
 
 La commande `docker run hello-world`{{execute}} va:
-* descendre l'image 'hello world'
+* descendre l'image `hello world`
 * démarrer un conteneur utilisant cette image
 * exécuter la commande dans ce conteneur
 
