@@ -1,5 +1,8 @@
-##Exécutez votre première commande avec Docker.
+## Démarrer votre premier conteneur.
 
-La commande `docker run hello-world`{{execute}} va descendre l'image 'hello world', démarrer le conteneur et exécuter la commande par défaut.
+La commande `docker run hello-world`{{execute}} va:
+* descendre l'image 'hello world'
+* démarrer un conteneur utilisant cette image
+* exécuter la commande dans ce conteneur
 
-Dans la prochaine étape vous allez apprendre ç TODO.
+Dans la prochaine étape vous allez apprendre à executer votre commande.
