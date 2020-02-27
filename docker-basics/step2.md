@@ -1,4 +1,3 @@
-## Executer une commande linux.
 
 Executez la commande `docker pull alpine`{{execute}} pour descendre l'image alpine dans votre registre local.
 

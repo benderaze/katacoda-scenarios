@@ -1,4 +1,3 @@
-## Connecter vous dans un conteneur.
 
 Lancez la commande '/bin/bash' dans un conteneur 'ubuntu' en mode interactif avec terminal.
 

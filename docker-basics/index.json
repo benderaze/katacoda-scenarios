@@ -1,0 +1,38 @@
+{
+  "title": "Formation Docker",
+  "description": "Formation Docker pour débutants",
+  "difficulty": "Beginner",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Démarrer votre premier conteneur",
+        "text": "step1.md"
+      },
+      {
+        "title": "Executer une commande linux",
+        "text": "step2.md"
+      },
+      {
+        "title": "Connecter vous dans un conteneur",
+        "text": "step3.md"
+      },
+      {
+        "title": "Connecter vous dans un conteneur",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
