@@ -15,4 +15,4 @@ Les commandes principales sont:
    * ${ENTRYPOINT} ${CMD} (avec CMD surchargeable au lancement)
 * EXPOSE, VOLUME
 
-En partant le l’image `ubuntu`, créez un Dockerfile appelant ping et prenant en paramètre du conteneur le host (localhost par défaut).
+En partant le l’image `alpine`, créez un Dockerfile appelant ping et prenant en paramètre du conteneur le host (localhost par défaut).
