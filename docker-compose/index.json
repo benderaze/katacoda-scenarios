@@ -1,0 +1,25 @@
+{
+  "title": "Formation Docker, lancez des stacks avec Docker compose",
+  "description": "Formation Docker pour débutants",
+  "difficulty": "Beginner",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Stack PHP",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal",
+    "showdashboard": true,
+    "dashboards": [{"name": "Display 80", "port": 80}]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
