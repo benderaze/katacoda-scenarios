@@ -7,8 +7,7 @@
     "steps": [
       {
         "title": "Démarrer votre premier pod",
-        "text": "step1.md",
-        "code": "launch.sh"
+        "text": "step1.md"
       }
     ],
     "intro": {
