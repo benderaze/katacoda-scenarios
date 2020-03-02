@@ -6,9 +6,8 @@
   "details": {
     "steps": [
       {
-        "title": "Démarrer votre premier pod",
-        "text": "step1.md",
-        "code": "/usr/bin/launch.sh"
+        "title": "Démarrer le cluster",
+        "text": "step1.md"
       }
     ],
     "intro": {
